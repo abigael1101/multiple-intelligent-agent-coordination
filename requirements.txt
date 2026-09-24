@@ -1,0 +1,4 @@
+# Core system is 100% zero-dependency (uses Python 3.10+ standard library)
+# Optional enhancements for production deployment:
+# flask>=3.0.0
+# requests>=2.31.0
